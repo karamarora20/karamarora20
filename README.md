@@ -1,5 +1,5 @@
 ### About me :
-I am currently learning about machine learning, neural networks, Cloud Computing tools using Google Cloud platform 
+I am currently learning about machine learning, neural networks, Fullstack development using FastApi python and Angular.js 
 ## :hammer_and_wrench: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>

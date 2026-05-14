@@ -1,5 +1,7 @@
 ### About me :
-I am currently learning about machine learning, neural networks, Fullstack development using FastApi python and Angular.js 
+I am a backend Engineer with experience building scalable retrieval, document ingestion, and cloud-native backend systems using FastAPI,
+PostgreSQL, DynamoDB, OpenSearch, and AWS. Worked on distributed workflows, low-latency APIs, Generatie AI projects and applied AI infrastructure
+supporting production workloads.
 ## :hammer_and_wrench: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>

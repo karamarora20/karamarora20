@@ -183,7 +183,7 @@ Enterprise-grade retrieval system supporting text and image understanding.
 
 📧 Email: [karam.arora2002@gmail.com](mailto:karam.arora2002@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/karam-arora
+💼 LinkedIn: [https://linkedin.com/in/karam-arora](https://www.linkedin.com/in/karam-arora-896952200/)
 
 🐙 GitHub: https://github.com/karamarora20
 

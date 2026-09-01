@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Backend Engineer with 2 years of production experience building scalable APIs, distributed systems, and cloud-native applications on AWS.
+Backend Engineer with 2+ years of production experience building scalable APIs, distributed systems, and cloud-native applications on AWS.
 
 My work sits at the intersection of **Backend Engineering** and **Applied AI**, where I design systems that combine reliable infrastructure with modern LLM capabilities. I've built multimodal RAG platforms, agentic workflows, hybrid search systems, event-driven architectures, and high-performance backend services used in production environments.
 
